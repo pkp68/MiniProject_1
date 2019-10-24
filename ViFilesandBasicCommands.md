@@ -5,9 +5,9 @@ Vi is the text editor for this system. It can be used to create and edit text fi
 
 Here are some basic commands in the Linux operating system: 
 * cd
-  1.
-  2.
-  3.
+   1. A command that changes the working directory. Stands for ‘change directory’. 
+   2. To navigate directories easily and change parent directories and subdirectories 
+   3. $ cd  [directory] You can put absolute path, $ cd ../ move up a directory, $ cd - move to the previous directory, $ cd ~ move to         home directory, $ cd ~/ [directory] move to specific directory
 * mkdir
   1.
   2.
