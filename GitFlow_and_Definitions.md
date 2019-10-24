@@ -4,6 +4,8 @@ GitFlow is a branching model for Git, created by Vincent Driessen. It has attrac
 
 Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 ![GitFlow Demo](https://github.com/cjl72/MiniProject_1/blob/master/git-model.png)
+
+### Git Features
 * Repository
 * Clone
 * Fork
