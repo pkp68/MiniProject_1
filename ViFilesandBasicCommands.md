@@ -36,7 +36,7 @@ Here are some basic commands in the Linux operating system. Here is the key:
    1. Shows the whole list of commands
    2. To show the commands used in that session  
    3. $ history
-* **Home directory and ~**
+* __Home directory and ~__
    1. The tilde denotes the home directory
    2. Used at the beginning of a path to a file or directory below the user's home directory
    3. Adding tilde roots to your home
