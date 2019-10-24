@@ -3,7 +3,10 @@ Linux is a terminal-based operating system that uses commands to operate. Type s
 
 Vi is the text editor for this system. It can be used to create and edit text files. 
 
-Here are some basic commands in the Linux operating system: 
+Here are some basic commands in the Linux operating system. Here is the key: 
+   1. What is it? 
+   2. Why use it? 
+   3. How to use it? 
 * cd
    1. A command that changes the working directory. Stands for ‘change directory’. 
    2. To navigate directories easily and change parent directories and subdirectories 
@@ -21,13 +24,13 @@ Here are some basic commands in the Linux operating system:
    2. To see what directory you are in
    3. $ pwd
 * mv 
-   1.
-   2.
-   3.
+   1. It moves files or directories from one place to another. Stands for ‘move’
+   2. It supports moving single files, multiple files, and directories.
+   3. mv [source destination], mv -i Warns before overwrite, mv -f Confirmation of overwriting if overwrite protected, mv -b Backup           existing file
 * rm
-   1.
-   2.
-   3.
+   1. Removes objects and directories 
+   2. To delete files and directories
+   3. rm [file] rm -i ask confirmation, rm -f Confirm removal if protected
 * history 
    1.
    2.
