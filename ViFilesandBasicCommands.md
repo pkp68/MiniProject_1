@@ -17,9 +17,9 @@ Here are some basic commands in the Linux operating system:
    2. To move what is copied usually a directory or file
    3. cp [sourceFile destinationFile], cp -i warns before overwrite, cp -b: creates the backup of the destination file in the same             folder
 * pwd 
-   1.
-   2.
-   3.
+   1. See what directory you are currently in. Stands for ‘Print work directory’
+   2. To see what directory you are in
+   3. $ pwd
 * mv 
    1.
    2.
