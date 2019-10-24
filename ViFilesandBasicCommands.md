@@ -32,17 +32,17 @@ Here are some basic commands in the Linux operating system. Here is the key:
    2. To delete files and directories
    3. rm [file] rm -i ask confirmation, rm -f Confirm removal if protected
 * history 
-   1.
-   2.
-   3.
+   1. Shows the whole list of commands
+   2. To show the commands used in that session  
+   3. $ history
 * Home directory and ~
-   1.
-   2.
-   3.
+   1. The tilde denotes the home directory
+   2. Used at the beginning of a path to a file or directory below the user's home directory
+   3. Adding tilde roots to your home
 * file paths in linux
-   1.
-   2.
-   3.
+   1. Organization methods of files and folders through directories
+   2. Instead of clicking through things, it is easier to move the files by using the direct paths
+   3. ~ is used for home, tab can be used to autocomplete, literally type out where file is
 * Using the tab key to complete file paths
    1.
    2.
