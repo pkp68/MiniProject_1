@@ -44,10 +44,10 @@ Here are some basic commands in the Linux operating system. Here is the key:
    2. Instead of clicking through things, it is easier to move the files by using the direct paths
    3. ~ is used for home, tab can be used to autocomplete, literally type out where file is
 * Using the tab key to complete file paths
-   1.
-   2.
-   3.
+   1. Autocomplete directory path 
+   2. To go faster, type whole thing faster
+   3. Use tab whne navigating and it should autofill 
 * Using up and down arrow for history
-   1.
-   2.
-   3.
+   1. Shows previous commands typed
+   2. To show history
+   3. Using the up and down arrows to scroll through 
