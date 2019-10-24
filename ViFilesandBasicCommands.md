@@ -5,13 +5,46 @@ Vi is the text editor for this system. It can be used to create and edit text fi
 
 Here are some basic commands in the Linux operating system: 
 * cd
+  1.
+  2.
+  3.
 * mkdir
+  1.
+  2.
+  3.
 * cp
+  1.
+  2.
+  3.
 * pwd 
+  1.
+  2.
+  3.
 * mv 
-* rm 
+  1.
+  2.
+  3.
+* rm
+  1.
+  2.
+  3.
 * history 
+  1.
+  2.
+  3.
 * Home directory and ~
+  1.
+  2.
+  3.
 * file paths in linux
+  1.
+  2.
+  3.
 * Using the tab key to complete file paths
+  1.
+  2.
+  3.
 * Using up and down arrow for history
+  1.
+  2.
+  3.
